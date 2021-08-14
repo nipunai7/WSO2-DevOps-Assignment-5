@@ -1,0 +1,9 @@
+dn: ou=permanent,ou=users,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: permanent
+description: Permanent Staff
+
+dn: ou=contractors,ou=users,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: contractors
+description: Contractors Staff

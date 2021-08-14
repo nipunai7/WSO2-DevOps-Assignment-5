@@ -1,0 +1,187 @@
+dn: uid=owen,ou=permanent,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: Owen
+sn: Hudson
+employeeNumber: 1
+mail: owen.hudson@lt.com
+mobile: 94771111111
+street: London
+employeeType: permanent
+homePhone: 9.40113E+11
+uid: owen
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+dn: uid=Rachel,ou=permanent,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Rachel
+sn: Burgess
+employeeNumber: 2
+mail: rachel.burgess@lt.com
+mobile: 94771111112
+street: London
+employeeType: permanent
+homePhone:9.40113E+11
+uid: Rachel
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+dn: uid=Mary,ou=permanent,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Mary
+sn: Mathis
+employeeNumber: 3
+mail: mary.mathis@lt.com
+mobile: 94771111113
+street: London
+employeeType: permanent
+homePhone:9.40113E+11
+uid: Mary
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+dn: uid=Molly,ou=permanent,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Molly
+sn: Vaughan
+employeeNumber: 4
+mail: molly.vaughan@lt.com
+mobile: 94771111114
+street: London
+employeeType: permanent
+homePhone:9.40113E+11
+uid: Molly
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+dn: uid=Piers,ou=permanent,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Piers
+sn: Duncan
+employeeNumber: 5
+mail: piers.duncan@lt.com
+mobile: 94771111115
+street: London
+employeeType: permanent
+homePhone:9.40113E+11
+uid: Piers
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+
+dn: uid=Dorothy,ou=permanent,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Dorothy
+sn: Wallace
+employeeNumber: 6
+mail: dorothy.wallace@lt.com
+mobile: 94771111116
+street: London
+employeeType: permanent
+homePhone:9.40113E+11
+uid: Dorothy
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+dn: uid=Emma,ou=permanent,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Emma
+sn: Clark
+employeeNumber: 7
+mail: emma.clark@lt.com
+mobile: 94771111117
+street: London
+employeeType: permanent
+homePhone:9.40113E+11
+uid: Emma
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+
+dn: uid=Tracey,ou=permanent,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Tracey
+sn: Mills
+employeeNumber: 8
+mail: tracey.mills@lt.com
+mobile: 94771111118
+street: London
+employeeType: permanent
+homePhone:9.40113E+11
+uid: Tracey
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+dn: uid=Dorothyw,ou=permanent,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Dorothy
+sn: Wilkins
+employeeNumber: 9
+mail: dorothy.wilkins@lt.com
+mobile: 94771111119
+street: London
+employeeType: permanent
+homePhone:9.40113E+11
+uid: Dorothyw
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+
+dn: uid=Ava,ou=permanent,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Ava
+sn: Lambert
+employeeNumber: 10
+mail: ava.lambert@lt.com
+mobile: 94771111120
+street: London
+employeeType: permanent
+homePhone:9.40113E+11
+uid: Ava
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+dn: uid=Sean,ou=contractors,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Sean
+sn: Parr
+employeeNumber: 11
+mail: warren.ferguson@lt.com
+mobile: 94771111145
+street: Johannesburg
+employeeType: contractor
+homePhone:9.40113E+11
+uid: Sean
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+dn: uid=Warren,ou=contractors,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Warren
+sn: Ferguson
+employeeNumber: 12
+mail: warren.ferguson@lt.com
+mobile: 94771111146
+street: Johannesburg
+employeeType: contractor
+homePhone:9.40113E+11
+uid: Warren
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
+
+
+dn: uid=Gabrielle,ou=contractors,ou=users,dc=ltacademy,dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Gabrielle
+sn: Vaughan
+employeeNumber: 13
+mail: gabrielle.vaughan@lt.com
+mobile: 94771111147
+street: Colombo
+employeeType: contractor
+homePhone:9.40113E+11
+uid: Gabrielle
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
