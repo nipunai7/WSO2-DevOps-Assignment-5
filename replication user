@@ -1,0 +1,12 @@
+dn: ou=System,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: System
+description: Admin Staff
+
+dn: cn=replicationUser,ou=System,dc=ltacademy,dc=com
+objectClass: simpleSecurityObject
+objectClass: person
+objectClass: top
+cn: replicationUser
+sn: Admin
+userPassword: {SSHA}DkMTwBl+a/3DQTxCYEApdUtNXGgdUac3
